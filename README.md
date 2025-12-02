@@ -13,7 +13,7 @@ This application was developed as part of ENT207TC, focusing on user-centered de
 
 Click below to download the official release of GreenSight AI:
 
-👉 **[📥 Download GreenSight_AI_19293008.apk](https://github.com/HaoyiXu/GreenSight-AI/releases/download/v1.0.0/_GreenSight_AI_19293008.apk.1.1)**
+👉 **[📥 Download GreenSight_AI_19293008.apk](https://github.com/LLX-233/GreenSight_AI/blob/main/Promotion_Report.pdf)**
 
 **Installation steps (Android):**
 1. Download the APK above  
@@ -62,7 +62,7 @@ https://video.xjtlu.edu.cn/Mediasite/Play/7f79bb9a5ffc4120a5bdb780f7db37211d
 ---
 
 # 🧭 App Access Instructions  
-(https://github.com/HaoyiXu02/GreenSight_AI/blob/main/App_access_instructions.pdf)
+👉 **[📥 Download App_Access_Instructions.pdf](https://github.com/LLX-233/GreenSight_AI/blob/main/App_Access_Instructions.pdf)**
 
 ### **1. Login & Registration**
 - Enter email and password on login screen  
@@ -88,7 +88,7 @@ Home dashboard includes:
 ---
 
 # 🧪 Detailed APK Testing Report  
-(https://github.com/HaoyiXu02/GreenSight_AI/blob/main/APK_Test_Detail.pdf)
+👉 **[📥 Download APK_Test_Detail.pdf](https://github.com/LLX-233/GreenSight_AI/blob/main/APK_Test_Detail.pdf)**
 
 ### **1. Test Overview**
 - App Name: *GreenSight AI*  
@@ -124,7 +124,7 @@ All test cases passed successfully.
 ---
 
 # 📊 User Feedback Summary  
-(https://github.com/HaoyiXu02/GreenSight_AI/blob/main/GreenSightAI_summary_short.pdf)
+👉 **[📥 Download GreenSightAI_summary_short.pdf](https://github.com/LLX-233/GreenSight_AI/blob/main/GreenSightAI_summary_short.pdf)**
 
 ### **Sample Size:** 18 valid responses  
 ### **Key Results**
@@ -155,7 +155,7 @@ All test cases passed successfully.
 ---
 
 # 📢 Promotion Report  
-(https://github.com/HaoyiXu02/GreenSight_AI/blob/main/Promotion_Report.pdf)
+👉 **[📥 Download Promotion_Report.pdf](https://github.com/LLX-233/GreenSight_AI/blob/main/Promotion_Report.pdf)**
 
 ### **1. Promotion Channels & Actions**
 
@@ -187,7 +187,7 @@ All test cases passed successfully.
 ---
 
 # 🎤 Presentation Summary  
-(https://github.com/HaoyiXu02/GreenSight_AI/blob/main/GreenSight_AI_Cultivating_the_Future_of_Agriculture.pptx)
+👉 **[📥 Download GreenSight_AI_Cultivating_the_Future_of_Agriculture.pptx](https://github.com/LLX-233/GreenSight_AI/blob/main/GreenSight_AI_Cultivating_the_Future_of_Agriculture.pptx)**
 
 ### **Key Themes**
 - Agricultural challenges: disease identification, inefficient management, reliance on experience  
