@@ -187,7 +187,7 @@ All test cases passed successfully.
 ---
 
 # 🎤 Presentation Summary  
-👉 **[📥 Download GreenSight_AI_Cultivating_the_Future_of_Agriculture.pptx](https://github.com/LLX-233/GreenSight_AI/blob/main/GreenSight_AI_Cultivating_the_Future_of_Agriculture.pptx)**
+👉 **[📥 GreenSight_AI_Cultivating_the_Future_of_Agriculture.pdf](https://github.com/LLX-233/GreenSight_AI/blob/main/GreenSight_AI_Cultivating_the_Future_of_Agriculture.pdf)**
 
 ### **Key Themes**
 - Agricultural challenges: disease identification, inefficient management, reliance on experience  
