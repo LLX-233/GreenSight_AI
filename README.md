@@ -232,13 +232,14 @@ GreenSight-AI
 
 # 👥 Team Members
 
-- **Haoyi Xu**    
-- **Yining.He**
+- **Yufan Shi**    
+- **Kai Feng**
 - **Guangyao.Shen**
-- **Jiale Li**
-- **Xinyue Gu**
+- **Jiahao Liu**
+- **Kexu Chen**
 - **Peile Yu**
 - **Qizhe Tang**
+- **Haoyi Xu**
 ---
 
 # 📄 License  
